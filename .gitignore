@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 *.lama.json
 .env
+
+# Dokumen sumber (PDF, DOCX, gambar) tidak ikut dipublikasikan
+*.pdf
+*.docx
+*.png
+*.jpg
