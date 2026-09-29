@@ -2,6 +2,8 @@
 
 Data matriks asesmen Tes Kemampuan Akademik (TKA) untuk jenjang **SMA, SMP, dan SD**, diekstrak dari halaman resmi [Pusat Mendikdasmen](https://pusmendik.kemendikdasmen.go.id/tka/).
 
+Repo ini juga memuat transkripsi Markdown dari [Panduan Penulisan Soal Tes Terstandar 2025](panduan_penulisan_soal_tes_terstandar_2025.md) sebagai referensi menulis butir soal.
+
 Disediakan sebagai satu berkas JSON statis supaya aplikasi lain bisa mengambilnya langsung lewat URL — tanpa API key, tanpa token, tanpa endpoint yang harus diinstalasi.
 
 ## Ambil datanya
